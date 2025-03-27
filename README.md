@@ -12,18 +12,24 @@ This is a Next.js application that provides an interactive checkbox selection in
 ## Live Demo
 
 You can view the live demo of this application here:
-[Checkbox Selection App]()
+[Checkbox Selection App](https://checkbox-app-pink.vercel.app/)
 
 ## Getting Started
+
+### Prerequisites
+- Node.js (version 14 or higher)
+- npm (comes with Node.js)
+
+### Installation Steps
+
+1. Clone the repository or download the source code
+   ```bash
+   git clone https://github.com/yourusername/checkbox-app.git
+   cd checkbox-app
+   ```
 
 First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
